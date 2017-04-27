@@ -1,3 +1,19 @@
 * {
-	background-color: red;
+	font-style: Helvetica;
+}
+
+#topTitle {
+	
+	background-image: url("the-flatiron-building.png");
+}
+h1 {
+	color:white;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: center;	
+}
+
+nav .topNav {
+	display: block;
+	font-size: 18px;
 }
